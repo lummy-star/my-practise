@@ -1,0 +1,9 @@
+body{
+  background-color:powderblue;
+}
+.Calculator {
+  text-align: center;
+  width:40%;
+  height:40px;
+  margin: auto;
+}
